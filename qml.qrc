@@ -8,5 +8,6 @@
         <file>ModelView.qml</file>
         <file>Gradient.qml</file>
         <file>ListModelIndex.qml</file>
+        <file>Alisas.qml</file>
     </qresource>
 </RCC>
