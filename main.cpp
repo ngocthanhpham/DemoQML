@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 //        return -1;
 
     QQuickView qview;
-    qview.setSource(QUrl(QLatin1String("qrc:/Alisas.qml")));
+    qview.setSource(QUrl(QLatin1String("qrc:/StateDemo.qml")));
     qview.show();
 
     return app.exec();

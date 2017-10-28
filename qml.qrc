@@ -9,5 +9,7 @@
         <file>Gradient.qml</file>
         <file>ListModelIndex.qml</file>
         <file>Alisas.qml</file>
+        <file>ListViewSelected.qml</file>
+        <file>StateDemo.qml</file>
     </qresource>
 </RCC>
