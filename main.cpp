@@ -8,12 +8,12 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
 
 //    QQmlApplicationEngine engine;
-//    engine.load(QUrl(QLatin1String("qrc:/main.qml")));
+//    engine.load(QUrl(QLatin1String("qrc:/ShowNewWindow.qml")));
 //    if (engine.rootObjects().isEmpty())
 //        return -1;
 
     QQuickView qview;
-    qview.setSource(QUrl(QLatin1String("qrc:/StateDemo.qml")));
+    qview.setSource(QUrl(QLatin1String("qrc:/CircleProgressBar.qml")));
     qview.show();
 
     return app.exec();

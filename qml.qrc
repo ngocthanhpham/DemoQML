@@ -11,5 +11,7 @@
         <file>Alisas.qml</file>
         <file>ListViewSelected.qml</file>
         <file>StateDemo.qml</file>
+        <file>ShowNewWindow.qml</file>
+        <file>CircleProgressBar.qml</file>
     </qresource>
 </RCC>
